@@ -1,0 +1,7 @@
+2026-10-07 11:21:03,646 INFO Starting scraper pipeline
+2026-10-07 11:21:36,873 INFO Books scraper collected 100 records
+2026-10-07 11:22:08,651 INFO Quotes scraper collected 50 records
+2026-10-07 11:22:08,651 INFO Collected 150 raw records
+2026-10-07 11:22:08,664 INFO Valid records: 150 | rejected: 0
+2026-10-07 11:22:08,666 INFO Final deduplicated records: 150 | duplicates removed: 0
+2026-10-07 11:22:08,673 INFO Scraper pipeline completed successfully

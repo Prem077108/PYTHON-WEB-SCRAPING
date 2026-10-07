@@ -1,0 +1,22 @@
+{
+  "total_records_collected": 150,
+  "total_records_after_cleaning": 150,
+  "records_rejected_during_validation": 0,
+  "duplicate_records_detected": 0,
+  "final_record_count": 150,
+  "execution_time_seconds": 65.03,
+  "sources": {
+    "Books to Scrape": {
+      "records_collected": 100,
+      "records_after_cleaning": 100,
+      "rejected": 0,
+      "duplicates": 0
+    },
+    "Quotes to Scrape": {
+      "records_collected": 50,
+      "records_after_cleaning": 50,
+      "rejected": 0,
+      "duplicates": 0
+    }
+  }
+}
